@@ -2,15 +2,15 @@
 
 My Python solutions to problems from [Rosalind](https://rosalind.info), a platform for learning bioinformatics through programming.
 
-| ID | Problem | Concepts |
-|---|---|---|
-| [DNA](https://rosalind.info/problems/dna/) | Counting DNA Nucleotides | String counting |
-| [RNA](https://rosalind.info/problems/rna/) | Transcribing DNA into RNA | String replacement |
-| [REVC](https://rosalind.info/problems/revc/) | Complementing a Strand of DNA | Dictionaries, reverse complement |
-| [FIB](https://rosalind.info/problems/fib/) | Rabbits and Recurrence Relations | Recurrence relations, loops |
-| [GC](https://rosalind.info/problems/gc/) | Computing GC Content | FASTA parsing, functions |
-| [HAMM](https://rosalind.info/problems/hamm/) | Counting Point Mutations | Hamming distance |
-| [IPRB](https://rosalind.info/problems/iprb/) | Mendel's First Law | Probability, combinations, Mendelian genetics |
+| ID | Problem | Concepts | Solution |
+|---|---|---|---|
+| [DNA](https://rosalind.info/problems/dna/) | Counting DNA Nucleotides | String counting | [dna.py](solutions/dna.py) |
+| [RNA](https://rosalind.info/problems/rna/) | Transcribing DNA into RNA | String replacement | [rna.py](solutions/rna.py) |
+| [REVC](https://rosalind.info/problems/revc/) | Complementing a Strand of DNA | Dictionaries, reverse complement | [revc.py](solutions/revc.py) |
+| [FIB](https://rosalind.info/problems/fib/) | Rabbits and Recurrence Relations | Recurrence relations, loops | [fib.py](solutions/fib.py) |
+| [GC](https://rosalind.info/problems/gc/) | Computing GC Content | FASTA parsing, functions | [gc.py](solutions/gc.py) |
+| [HAMM](https://rosalind.info/problems/hamm/) | Counting Point Mutations | Hamming distance | [hamm.py](solutions/hamm.py) |
+| [IPRB](https://rosalind.info/problems/iprb/) | Mendel's First Law | Probability, combinations, Mendelian genetics | [iprb.py](solutions/iprb.py) |
 
 ## Running a solution
 
